@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+#layout {
+    width: 100%; 
+    height: 100vh;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#menu_superior{
+    height: 150px;
+    background: rgb(4, 243, 211);
+    background-image: url("https://i.pinimg.com/originals/57/74/8e/57748e64020a1a422ab1a42884dfd26e.jpg");
+}
+
+#menu_esquerdo{
+    width: 200px; 
+    background: rgb(192, 192, 192);
+    display: block;
+    height: 100%;
+}
+
+#conteudo{
+    background: rgba(226, 222, 222, 0.959);
+    width: 100%;
+}
+
+#titulo_menu_superior{
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    text-shadow: 5px 5px black;
+}
+
+#menu_esquerdo ul{
+text-align: left;
+list-style-type: none;
+}
