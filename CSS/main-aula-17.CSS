@@ -1,0 +1,28 @@
+#menu_superior{
+    height: 200px;
+    background: darkgray;
+    background-image: url("https://i.pinimg.com/originals/57/74/8e/57748e64020a1a422ab1a42884dfd26e.jpg");
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+#menu_esquerdo{
+    width: 300px; 
+    background: gainsboro;
+    display: block;
+    height: 100%;
+    border: 1px solid darkgray;
+    border-radius: 0px 10px 0px 0px;
+    position: fixed;
+    left: 0px;
+}
+
+#conteudo{
+    margin-top: 220px;
+    margin-left: 300px;
+    width: 100%;
+    background: yellow;
+    height: 100vh;    
+}
